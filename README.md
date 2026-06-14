@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Paramveer Singh
 
-<!--
-**paramisadev/paramisadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 CSE (AI & ML)
+💡 Building things that matter
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Incoming B.Tech CSE (AI & ML) Student at RIMT University
+* 💻 Passionate about software development
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 🚀 Building projects and exploring new technologies
+
+## 🌱 Currently Learning
+
+* Python
+* Git & GitHub
+* HTML, CSS & JavaScript
+* React
+* Node.js
+* Next.js
+
+## 🎯 Interests
+
+* Artificial Intelligence & Machine Learning
+* Software Development
+* Open Source
+
+## 📈 Current Goals
+
+* Build impactful projects
+* Contribute to Open Source
+* Strengthen my Python skills
+* Explore AI/ML and Modern Web Development
+
+## 📫 Connect With Me
+
+* GitHub: @paramisadev
+
+> "Building things that matter."
