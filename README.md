@@ -35,6 +35,6 @@
 ## 📫 Connect With Me
 
 * GitHub: @paramisadev
-* LinkedIn: https://www.linkedin.com/in/paramveer-singh-4a3817416/
 * Discord: @paramisadev
+* LinkedIn: https://www.linkedin.com/in/paramveer-singh-4a3817416/
 > "Building things that matter."
