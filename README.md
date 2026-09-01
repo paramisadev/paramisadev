@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Incoming B.Tech CSE (AI & ML) Student at RIMT University
+* 🎓 B.Tech CSE (AI & ML) Student at RIMT University
 * 💻 Passionate about software development
 * 🤖 Interested in Artificial Intelligence & Machine Learning
 * 🚀 Building projects and exploring new technologies
